@@ -4,7 +4,6 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Анализ рынка недвижимости](https://github.com/VellStef/Portfolio/tree/main/Real%20Estate%20Research) | Нахождение параметров, наиболее сильно <br/>влияющих на рыночную цену недвижимости | python, pandas, seaborn, matplotlib |
-| 2.   | [Прогноз количества заказов для сервиса такси](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
-
+| 1.   | [Анализ рынка недвижимости](https://github.com/VellStef/Portfolio/tree/main/Real%20Estate%20Research) | Нахождение параметров, наиболее сильно влияющих на рыночную цену недвижимости | python, pandas, seaborn, matplotlib |
+| 2.   | [Мониторинг уровня потребительской лояльности](https://github.com/VellStef/Portfolio/tree/main/Net%20Promoter%20Score) |  Построение дашборда для мониторинга текущего уровня потребительской лояльности | python, sqlalchemy, SQL, Tableau |
 | 3.   | [Анализ текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
