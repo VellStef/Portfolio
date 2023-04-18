@@ -1,10 +1,10 @@
 # Анализ текстов
 
-[ipynb](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.ipynb)
+[ipynb](https://github.com/VellStef/Portfolio/blob/main/Real%20Estate%20Research/Исследование%20объявлений%20о%20продаже%20недвижимости.ipynb)
 
 ## Описание проекта
 
-Требуется анализировать комментарии пользователей на английском языке и выделять токсичные, чтобы отправить на модерацию.
+Требуется определить параментры, которые в большей мере влияют на рыночную стоимость недвижимости.
 
 
 
@@ -12,13 +12,12 @@
 
 - **python**
 - **pandas**
-- **numpy**
-- nltk.stem.**WordNetLemmatizer**
-- sklearn.feature_extraction.text.**TfidfVectorizer**
-- sklearn.linear_model.**LogisticRegression**
-- sklearn.ensemble.**RandomForestClassifier**
-- catboost.**CatBoostClassifier**
-
+- **matplotlib**
+- Предобработка данных:
+  - Изучение и заполнение пропусков в данных
+  - Проверка и удаление дубликатов
+  - Анализ и удаление аномальных значение с помощью boxplot()
+- Определение параментов с помощью корреляции и графиков scatter, bar
 
 
 ## Вывод
