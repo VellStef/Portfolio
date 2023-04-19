@@ -1,6 +1,6 @@
 # Анализ рынка недвижимости
 
-[ipynb](https://github.com/VellStef/Portfolio/blob/main/Real%20Estate%20Research/Исследование%20объявлений%20о%20продаже%20недвижимости.ipynb)
+[ipynb](https://github.com/VellStef/Portfolio/blob/765a720161c621225f995ca7a58f4905e9d63449/Real%20Estate%20Research/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%CC%86%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8.ipynb)
 
 ## Описание проекта
 
