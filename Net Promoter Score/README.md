@@ -10,7 +10,6 @@
 
 ## Навыки и инструменты
 
-- **python**
 - **sqlalchemy**
 - **SQL**
 - **Tableau**
