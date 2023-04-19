@@ -1,4 +1,4 @@
-# Анализ текстов
+# Анализ рынка недвижимости
 
 [ipynb](https://github.com/VellStef/Portfolio/blob/main/Real%20Estate%20Research/Исследование%20объявлений%20о%20продаже%20недвижимости.ipynb)
 
